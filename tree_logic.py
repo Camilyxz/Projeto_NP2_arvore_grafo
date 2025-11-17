@@ -1,3 +1,4 @@
+#avaliação
 class Node:
     def __init__(self, question, yes=None, no=None):
         """
