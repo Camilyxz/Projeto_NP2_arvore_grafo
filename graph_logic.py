@@ -1,3 +1,4 @@
+#avaliação
 def connected(graph, a, b):
     """
     Retorna True se existe um caminho entre 'a' e 'b' em um grafo não direcionado.
